@@ -6,10 +6,8 @@ body {
 }
 
 .profile img {
-.profile img {
     width: 42px;
     height: 42px;
-    border-radius: 50%;
     border-radius: 50%;
 }
 
@@ -18,7 +16,7 @@ body {
     width: 280px;
     background: #ffffff;
     border-right: 1px solid #f0f0f0;
-    border-right: 1px solid #f0f0f0;
+
 }
 
 .sidebar-inner {
@@ -26,7 +24,7 @@ body {
     display: flex;
     flex-direction: column;
     padding: 28px 24px;
-    padding: 28px 24px;
+
     box-sizing: border-box;
 }
 
@@ -34,7 +32,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 10px;
-    gap: 10px;
+
     margin-top: 40px;
 }
 
@@ -42,12 +40,10 @@ body {
     margin-top: 40px;
     padding: 20px;
     border-radius: 16px;
-    background: linear-gradient(
-  100deg,
-  #EAB3F2 0%,
-  #7B4DFF 50%,
-  #4623E9 100%
-);
+    background: linear-gradient(100deg,
+            #EAB3F2 0%,
+            #7B4DFF 50%,
+            #4623E9 100%);
     color: white;
     text-align: center;
     font-size: 14px;
@@ -64,7 +60,6 @@ body {
     font-weight: 600;
 }
 
-.profile {
 .profile {
     margin-top: auto;
     display: flex;
