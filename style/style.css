@@ -1,42 +1,122 @@
-body{
-    background-color: white;
+body {
+    background-color: #FAFBFF;
     margin: 0;
     padding: 0;
+    font-family: 'Poppins', sans-serif;
 }
 
-.profile img{
+.profile img {
     width: 42px;
     height: 42px;
+    border-radius: 50%;
 }
 
-.sidebar{ 
+.sidebar {
     height: 100vh;
     width: 280px;
     background: #ffffff;
+    border-right: 1px solid #f0f0f0;
 }
 
-.sidebar-inner{
+.sidebar-inner {
     height: 100%;
     display: flex;
     flex-direction: column;
-    padding: 24px;
+    padding: 28px 24px;
     box-sizing: border-box;
 }
 
-.sidebar-nav{
+.sidebar-nav {
     display: flex;
     flex-direction: column;
-    gap: 12px;
+    gap: 10px;
     margin-top: 40px;
 }
 
-.upgrade-card{
+.upgrade-card {
     margin-top: 40px;
+    padding: 20px;
+    border-radius: 16px;
+    background: linear-gradient(
+  100deg,
+  #EAB3F2 0%,
+  #7B4DFF 50%,
+  #4623E9 100%
+);
+    color: white;
+    text-align: center;
+    font-size: 14px;
 }
 
-.profile{
+.upgrade-btn {
+    display: block;
+    margin-top: 16px;
+    padding: 10px;
+    background: white;
+    color: #5932ea;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.profile {
     margin-top: auto;
     display: flex;
     align-items: center;
     gap: 12px;
+}
+
+.profile-info strong {
+    display: block;
+    font-size: 14px;
+}
+
+.profile-info span {
+    font-size: 12px;
+    color: #777;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.logo .version {
+    font-size: 12px;
+    color: rgba(131, 131, 131, 1);
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 14px;
+    border-radius: 10px;
+    color: #9197B3;
+    text-decoration: none;
+    font-size: 14px;
+    transition: all 0.2s ease;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+.nav-item:hover {
+    background: #f5f5f5;
+}
+
+.nav-item.active {
+    background: #5932EA;
+    color: white;
+}
+
+.nav-item.active:hover {
+    background: #5932EA;
+}
+
+.nav-item img {
+    width: 20px;
+    height: 20px;
 }
