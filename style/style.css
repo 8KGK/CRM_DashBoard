@@ -6,8 +6,10 @@ body {
 }
 
 .profile img {
+.profile img {
     width: 42px;
     height: 42px;
+    border-radius: 50%;
     border-radius: 50%;
 }
 
@@ -16,6 +18,7 @@ body {
     width: 280px;
     background: #ffffff;
     border-right: 1px solid #f0f0f0;
+    border-right: 1px solid #f0f0f0;
 }
 
 .sidebar-inner {
@@ -23,12 +26,14 @@ body {
     display: flex;
     flex-direction: column;
     padding: 28px 24px;
+    padding: 28px 24px;
     box-sizing: border-box;
 }
 
 .sidebar-nav {
     display: flex;
     flex-direction: column;
+    gap: 10px;
     gap: 10px;
     margin-top: 40px;
 }
@@ -59,6 +64,7 @@ body {
     font-weight: 600;
 }
 
+.profile {
 .profile {
     margin-top: auto;
     display: flex;
