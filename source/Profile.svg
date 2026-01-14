@@ -1,0 +1,11 @@
+<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40.000000" height="40.000000" fill="none" customFrame="#000000">
+	<rect id="vuesax/linear/profile-tick" width="40.000000" height="40.000000" x="0.000000" y="0.000000" fill="rgb(15,95,194)" fill-opacity="0" />
+	<g id="vuesax/linear/profile-tick">
+		<g id="profile-tick">
+			<path id="Vector" d="M24.0667 31.75L26.6 34.2834L31.6667 29.2167" fill-rule="nonzero" stroke="rgb(0,172,79)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" />
+			<path id="Vector" d="M19.7169 18.117C15.7503 17.9837 12.6003 14.7337 12.6003 10.7337C12.5836 6.65035 15.9003 3.33368 19.9836 3.33368C24.0669 3.33368 27.3836 6.65035 27.3836 10.7337C27.3836 14.7337 24.2169 17.9837 20.2669 18.117C20.1003 18.1003 19.9003 18.1003 19.7169 18.117Z" fill-rule="nonzero" stroke="rgb(0,172,79)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" />
+			<path id="Vector" d="M19.9832 36.3498C16.9498 36.3498 13.9332 35.5832 11.6332 34.0498C7.59982 31.3498 7.59982 26.9498 11.6332 24.2665C16.2165 21.1998 23.7332 21.1998 28.3165 24.2665" fill-rule="nonzero" stroke="rgb(0,172,79)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" />
+			<path id="Vector" opacity="0" transform="matrix(-1,-1.22465e-16,1.22465e-16,-1,40,40)" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,12 @@
+<svg viewBox="0 0 42 42" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42.000000" height="42.000000" fill="none" customFrame="#000000">
+	<rect id="vuesax/linear/monitor" width="42.000000" height="42.000000" x="0.000000" y="0.000000" fill="rgb(255,255,255)" fill-opacity="0" />
+	<g id="vuesax/linear/monitor">
+		<g id="monitor">
+			<path id="Vector" d="M30.7125 3.5C36.9425 3.5 38.5 5.0575 38.5 11.27L38.5 22.3475C38.5 28.5775 36.9425 30.1175 30.73 30.1175L11.27 30.1175C5.0575 30.135 3.5 28.5775 3.5 22.365L3.5 11.27C3.5 5.0575 5.0575 3.5 11.27 3.5L30.7125 3.5Z" fill-rule="nonzero" stroke="rgb(0,172,79)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.625" />
+			<path id="Vector" d="M0 0L8.365 0" stroke="rgb(0,172,79)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.625" transform="matrix(0,1,-1,0,21,30.1345)" />
+			<path id="Vector" d="M3.5 22.75L38.5 22.75" stroke="rgb(0,172,79)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.625" />
+			<path id="Vector" d="M13.125 38.5L28.875 38.5" stroke="rgb(0,172,79)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.625" />
+			<path id="Vector" opacity="0" />
+		</g>
+	</g>
+</svg>
